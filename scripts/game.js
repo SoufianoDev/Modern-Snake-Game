@@ -670,3 +670,4 @@ function animate() {
 
 playAgainBtn.addEventListener("click", resetGame);
 startGameBtn.addEventListener("click", startGame);
+
